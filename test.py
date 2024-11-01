@@ -1,1 +1,1 @@
-S
+print("Hi..Namasthe!!")
